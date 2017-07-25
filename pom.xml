@@ -10,6 +10,15 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>web</module>
+        <module>common/dao</module>
+        <module>common/service/api</module>
+        <module>common/service/integration</module>
+        <module>common/service/config</module>
+        <module>common/utils</module>
+        <module>core/model</module>
+        <module>core/service</module>
+        <module>biz/rpc</module>
+        <module>biz/manager</module>
     </modules>
 
 
